@@ -6,7 +6,7 @@ body{
 }
 .navbar{
 position: absolute;
-width: 1440px;
+width: 100vw;
 height: 72px;
 left: 0px;
 top: 0px;
@@ -71,7 +71,7 @@ border-radius: 21px;
 @media ( max-width:1945px){
     .navbar{
         position: absolute;
-        width: 1200px;
+        width: 100vw;
         height: 72px;
         left: 0px;
         top: 0px;
@@ -101,7 +101,7 @@ border-radius: 21px;
         position: absolute;
         width: 360px;
         height: 42px;
-        left: 300px;
+        left: 400px;
         top: 16px; 
         background: #F2F2F2;
         border-radius: 21px;
@@ -124,7 +124,7 @@ border-radius: 21px;
             position: absolute;
             width: 183px;
             height: 21px;
-            left: 800px;
+            left: 1000px;
             top: 27px;
             display:flex;
         }
@@ -139,10 +139,10 @@ border-radius: 21px;
 
 
 
-@media ( max-width:1615px){
+@media ( max-width:1420px){
     .navbar{
         position: absolute;
-        width: 1070px;
+        width: 100vw;
         height: 72px;
         left: 0px;
         top: 0px;
@@ -150,7 +150,7 @@ border-radius: 21px;
         }
         .heading{
          position:absolute;
-         left:20px;
+         left:1%;
          display:flex;
          justify-content: center;
          align-items:center;
@@ -170,9 +170,9 @@ border-radius: 21px;
         }
         .search{
         position: absolute;
-        width: 300px;
+        width: 200px;
         height: 42px;
-        left: 150px;
+        left: 15%;
         top: 16px; 
         background: #F2F2F2;
         border-radius: 21px;
@@ -183,7 +183,7 @@ border-radius: 21px;
         }
         .search-btn{
             height:50%;
-            width: 85%;
+            width: 65%;
             margin-top:-10px;
             position: absolute;
             top:20px;
@@ -195,7 +195,7 @@ border-radius: 21px;
             position: absolute;
             width: 183px;
             height: 21px;
-            left: 600px;
+            left: 60%;
             top: 27px;
             display:flex;
         }
@@ -203,5 +203,5 @@ border-radius: 21px;
             margin-left:5px;
             color:blue;
         }
-
+  
 }

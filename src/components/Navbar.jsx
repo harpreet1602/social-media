@@ -5,9 +5,8 @@ let Navbar = () => {
             <div className="navbar">
                 <div className="heading">
                     <div className="green">ATG</div>
-                    <div className="black">.W
-                        <div className="image"><img className="logo" src="o.png" /></div>
-
+                    <div className="black">.WO
+                        {/* <div className="image"></div> */}
                         RLD</div>
                 </div>
                 <div className="search">
