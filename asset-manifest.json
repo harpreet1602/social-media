@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/social-media/static/css/main.a945714d.chunk.css",
+    "main.js": "/social-media/static/js/main.0b15fbb5.chunk.js",
+    "main.js.map": "/social-media/static/js/main.0b15fbb5.chunk.js.map",
+    "runtime-main.js": "/social-media/static/js/runtime-main.846e89d9.js",
+    "runtime-main.js.map": "/social-media/static/js/runtime-main.846e89d9.js.map",
+    "static/js/2.414ef69e.chunk.js": "/social-media/static/js/2.414ef69e.chunk.js",
+    "static/js/2.414ef69e.chunk.js.map": "/social-media/static/js/2.414ef69e.chunk.js.map",
+    "index.html": "/social-media/index.html",
+    "static/css/main.a945714d.chunk.css.map": "/social-media/static/css/main.a945714d.chunk.css.map",
+    "static/js/2.414ef69e.chunk.js.LICENSE.txt": "/social-media/static/js/2.414ef69e.chunk.js.LICENSE.txt",
+    "static/media/Post.css": "/social-media/static/media/pension.51a726ff.jpg",
+    "static/media/Section.css": "/social-media/static/media/computer.2db59805.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846e89d9.js",
+    "static/js/2.414ef69e.chunk.js",
+    "static/css/main.a945714d.chunk.css",
+    "static/js/main.0b15fbb5.chunk.js"
+  ]
+}
