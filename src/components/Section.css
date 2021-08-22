@@ -1,0 +1,115 @@
+.section{
+    position: absolute;
+width: 1440px;
+height: 440px;
+left: 0px;
+top: 72px;
+color:white;
+background-image: url(../images/computer.jpg);
+
+}
+.comp-heading{
+    position: absolute;
+width: 378px;
+height: 47px;
+left: 200px;
+top: 286px;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 47px;
+}
+
+.comp-content{
+    position: absolute;
+width: 327px;
+height: 23px;
+left: 200px;
+top: 337px;
+
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 23px;
+}
+
+@media(max-width:1945px){
+    .section{
+        position: absolute;
+    width: 1200px;
+    height: 440px;
+    left: 0px;
+    top: 72px;
+    color:white;
+    background-image: url(../images/computer.jpg);
+    
+    }
+    .comp-heading{
+    position: absolute;
+    width: 378px;
+    height: 47px;
+    left: 200px;
+    top: 286px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 47px;
+    }
+    
+    .comp-content{
+    position: absolute;
+    width: 327px;
+    height: 23px;
+    left: 200px;
+    top: 337px;
+    
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    }
+}
+
+
+
+
+
+@media(max-width:1615px){
+    .section{
+        position: absolute;
+    width: 1070px;
+    height: 440px;
+    left: 0px;
+    top: 72px;
+    color:white;
+    background-image: url(../images/computer.jpg);
+    
+    }
+    .comp-heading{
+    position: absolute;
+    width: 378px;
+    height: 47px;
+    left: 200px;
+    top: 286px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 47px;
+    }
+    
+    .comp-content{
+    position: absolute;
+    width: 327px;
+    height: 23px;
+    left: 200px;
+    top: 337px;
+    
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    }
+}

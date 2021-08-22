@@ -1,0 +1,207 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+}
+.navbar{
+position: absolute;
+width: 1440px;
+height: 72px;
+left: 0px;
+top: 0px;
+border:1px solid;
+}
+.heading{
+ position:absolute;
+ left:72px;
+ display:flex;
+ justify-content: center;
+ align-items:center;
+ height:100%;
+ width:8%;
+ font-size:20px;
+}
+.green{
+    color:green;
+}
+.black{
+    display:flex;
+}
+.logo{
+    height:15px;
+    width:15px;
+}
+.search{
+position: absolute;
+width: 360px;
+height: 42px;
+left: 540px;
+top: 16px; 
+background: #F2F2F2;
+border-radius: 21px;
+}
+.search span
+{
+    margin:8px 0px 0px 8px;
+}
+.search-btn{
+    height:50%;
+    width: 85%;
+    margin-top:-10px;
+    position: absolute;
+    top:20px;
+    outline :none !important;
+    border:none;
+    background: #F2F2F2;
+}
+.account{
+    position: absolute;
+    width: 183px;
+    height: 21px;
+    left: 1161px;
+    top: 27px;
+    display:flex;
+}
+.second{
+    margin-left:5px;
+    color:blue;
+}
+
+@media ( max-width:1945px){
+    .navbar{
+        position: absolute;
+        width: 1200px;
+        height: 72px;
+        left: 0px;
+        top: 0px;
+        border:1px solid;
+        }
+        .heading{
+         position:absolute;
+         left:20px;
+         display:flex;
+         justify-content: center;
+         align-items:center;
+         height:100%;
+         width:8%;
+         font-size:20px;
+        }
+        .green{
+            color:green;
+        }
+        .black{
+            display:flex;
+        }
+        .logo{
+            height:15px;
+            width:15px;
+        }
+        .search{
+        position: absolute;
+        width: 360px;
+        height: 42px;
+        left: 300px;
+        top: 16px; 
+        background: #F2F2F2;
+        border-radius: 21px;
+        }
+        .search span
+        {
+            margin:8px 0px 0px 8px;
+        }
+        .search-btn{
+            height:50%;
+            width: 85%;
+            margin-top:-10px;
+            position: absolute;
+            top:20px;
+            outline :none !important;
+            border:none;
+            background: #F2F2F2;
+        }
+        .account{
+            position: absolute;
+            width: 183px;
+            height: 21px;
+            left: 800px;
+            top: 27px;
+            display:flex;
+        }
+        .second{
+            margin-left:5px;
+            color:blue;
+        }
+
+}
+
+
+
+
+
+@media ( max-width:1615px){
+    .navbar{
+        position: absolute;
+        width: 1070px;
+        height: 72px;
+        left: 0px;
+        top: 0px;
+        border:1px solid;
+        }
+        .heading{
+         position:absolute;
+         left:20px;
+         display:flex;
+         justify-content: center;
+         align-items:center;
+         height:100%;
+         width:8%;
+         font-size:20px;
+        }
+        .green{
+            color:green;
+        }
+        .black{
+            display:flex;
+        }
+        .logo{
+            height:15px;
+            width:15px;
+        }
+        .search{
+        position: absolute;
+        width: 300px;
+        height: 42px;
+        left: 150px;
+        top: 16px; 
+        background: #F2F2F2;
+        border-radius: 21px;
+        }
+        .search span
+        {
+            margin:8px 0px 0px 8px;
+        }
+        .search-btn{
+            height:50%;
+            width: 85%;
+            margin-top:-10px;
+            position: absolute;
+            top:20px;
+            outline :none !important;
+            border:none;
+            background: #F2F2F2;
+        }
+        .account{
+            position: absolute;
+            width: 183px;
+            height: 21px;
+            left: 600px;
+            top: 27px;
+            display:flex;
+        }
+        .second{
+            margin-left:5px;
+            color:blue;
+        }
+
+}
