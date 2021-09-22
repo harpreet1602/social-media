@@ -1,5 +1,4 @@
-import Createaccount from "./Createaccount"
-
+import Createaccount from "./Createaccount";
 import "./Post.css";
 let Post = () => {
     return (
@@ -15,8 +14,7 @@ let Post = () => {
             <div className="writepostbtn">
             <button type="button" className="writepost">Write a Post</button>
             </div>
-            <div className="creategroupbtn">
-           
+            <div className="creategroupbtn"> 
             <button type="button" className="creategroup">
             <span class="material-icons">
             group_add
